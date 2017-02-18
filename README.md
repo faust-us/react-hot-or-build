@@ -17,9 +17,7 @@ npm run build # Собрать проект
 
 Вынести конфигурации для режима "горячей" перезагрузки и сборки проекта в webpack.config.dev.js и webpack.config.prod.js соответственно  
 
-### Прочие boilerplate
-
-[Прочие boilerplate]((https://github.com/gaearon/react-hot-loader/blob/master/docs/README.md#starter-kits))
+### [Прочие boilerplate](https://github.com/gaearon/react-hot-loader/blob/master/docs/README.md#starter-kits)
 
 ### WebStorm
 
