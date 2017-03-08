@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import './App.css';
 // If you use React Router, make this component
 // render <Router> with your routes. Currently,
 // only synchronous routes are hot reloaded, and
@@ -9,7 +9,7 @@ import React, { Component } from 'react';
 export default class App extends Component {
   render() {
     return (
-      <h1>Привет медвед!</h1>
+      <h1>Добро пожаловать в мир React!</h1>
     );
   }
 }

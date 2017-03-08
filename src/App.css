@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #222930;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  color: #4EB1BA;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-top: 100px;
+}
